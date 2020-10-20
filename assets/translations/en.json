@@ -1,0 +1,35 @@
+{
+  "title": "English",
+  "boarding" : {
+    "page_one_title": "Each one of us has the power to help prevent the spread of the Coronavirus pandemic in India.",
+    "page_one_subtitle": "Would you like to be kept informed if you have crossed paths with someone who has tested COVID-19 positive?",
+    "page_two_title": "Aarogya Setu tracks through a Bluetooth & Location generated social graph, your interaction with someone who could have tested COVID-19 positive.",
+    "page_two_subtitle": "Simply,\n1. Install the app\n2. Switch on the Bluetooth & Location\n3. Set location sharing to 'Always'\n\nInvite your friends and family to install the app too.",
+    "page_three_title": "You will be altered if someone you have come in close proximity of, even unknowingly, tests COVID-19 positive.",
+    "page_three_subtitle": "The App alerts are accompanied by instructions on how to self-isolate and what to do in case you develop symptoms that may need help and support",
+    "page_four": "With Aarogya Setu, you can protect, your family and friends, and help our country in the effort to fight COVID-19"
+  },
+  "lang_select": "Please select your language",
+  "mobile": "Mobile Number",
+  "why_needed": "Why it is needed?",
+  "mobile_enter": "Enter Mobile Number",
+  "next": "Next",
+  "submit": "Submit",
+  "register": "Register Now",
+  "understand": "I UNDERSTAND",
+  "agree": "I Agree",
+  "terms": "Terms of Service & Privacy",
+  "terms_body": "We understand the nature and sensitivity of this topic and have taken strong measures to ensure that your data is not compromised.",
+  "location":"Device Location",
+  "location_body":"It is recommended that you set your location sharing to ‘Always’. You can change this anytime later.",
+  "bluetooth":"Bluetooth",
+  "bluetooth_body":"Monitors your device’s proximity to another mobile device.It is recommended that you keep it on at all times.",
+  "data":"Data Sharing",
+  "data_body":"Your Data will be shared only with the Government of India.\\nThe App does not allow your name and number to be disclosed to the public at large at any time.",
+  "terms_use": "If you would like to contribute to a safer India please indicate your acceptance of the Terms of Service and the Privacy Policy by clicking on the button below:",
+  "mobile_require": "Your mobile number is required for contact tracing.",
+  "mobile_require_why": "Say, you met someone a week back at a gathering or were in close proximity of someone unknown at a public place, and in a few days, they test positive for COVID-19.\n\nThe Government of India will trace back all touch points of that person, through the active devices with the app installed that were in close radius of that person, in the past 14 days.\n\nA notification will then be sent to all such contacts with an advisory on further course of action, to self-isolate or to get the test done at a nearest testing centre, as needed.\n\nBy participating in active contact tracing, you will help us minimise the spread of COVID-19 and enable Government of India to implement proactive measures for your health and well-being.\n\n"
+
+
+
+}

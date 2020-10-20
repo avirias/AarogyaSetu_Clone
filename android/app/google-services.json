@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "235841343293",
+    "firebase_url": "https://gamatics-d9dce.firebaseio.com",
+    "project_id": "gamatics-d9dce",
+    "storage_bucket": "gamatics-d9dce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:235841343293:android:91c1af4fc37a3f5ab77f54",
+        "android_client_info": {
+          "package_name": "com.avirias.gamatics"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "235841343293-drcg69rc6vvna4viq4qab10i7q3h5q53.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwKngmcVjVKdOVPCJSZ-1X-qXUctoPGKY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "235841343293-drcg69rc6vvna4viq4qab10i7q3h5q53.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
