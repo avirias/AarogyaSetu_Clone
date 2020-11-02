@@ -11,12 +11,12 @@ Attempt to clone the AarogyaSetu app
 ## Screenshots
 
 <p align="center">
-<img src="1.png" height="520px">
-<img src="2.png" height="520px">
-<img src="3.png" height="520px">
+<img src="screenshots/1.png" height="520px">
+<img src="screenshots/2.png" height="520px">
+<img src="screenshots/3.png" height="520px">
 </p> <br>
 <p align="center">
 
-<img src="4.png" height="520px">
-<img src="5.png" height="520px">
+<img src="screenshots/4.png" height="520px">
+<img src="screenshots/5.png" height="520px">
 </p>
